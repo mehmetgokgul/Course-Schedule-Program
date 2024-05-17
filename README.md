@@ -61,7 +61,7 @@ FOR EACH course IN courses DO
     ENDIF
 END FOR
 RETURN the generated schedule
-
+```
 ![Alt text]([image_url](https://drive.google.com/file/d/1eSZK6f6kTE7iIzQsoD3G9GeFUq9Revpl/view?usp=drive_link))
 
 
