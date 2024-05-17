@@ -62,7 +62,7 @@ FOR EACH course IN courses DO
 END FOR
 RETURN the generated schedule
 
-![image](https://github.com/mehmetgokgul/Course-Schedule-Program/assets/153387022/7e914675-6877-4158-bc7d-bf533ac6b570)
+![Alt text](https://github.com/mehmetgokgul/Course-Schedule-Program/assets/153387022/7e914675-6877-4158-bc7d-bf533ac6b570)
 
 ![image](https://github.com/mehmetgokgul/Course-Schedule-Program/assets/153387022/22821533-b03e-40af-b035-7afb99097484)
 
