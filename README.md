@@ -1,4 +1,4 @@
-# CENG206 PROJECT
+# COURSE SCHEDULE PROGRAM
 
 ## Project Overview
 
