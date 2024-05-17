@@ -62,7 +62,15 @@ FOR EACH course IN courses DO
 END FOR
 RETURN the generated schedule
 ```
-!([image_url](https://drive.google.com/file/d/1eSZK6f6kTE7iIzQsoD3G9GeFUq9Revpl/view?usp=drive_link))
+## UML Class Diagram
+![UML](https://github.com/mehmetgokgul/Course-Schedule-Program/assets/153387022/60feb007-0107-4922-9925-35462dcba5eb)
+## Screenshots
+![GirisEkrani](https://github.com/mehmetgokgul/Course-Schedule-Program/assets/153387022/70267660-f56e-461a-8071-32fb7df5cf8b)
+![EditEkrani](https://github.com/mehmetgokgul/Course-Schedule-Program/assets/153387022/f8ad1797-2c8f-48e8-9332-b8157d459b85)
+![Tablo](https://github.com/mehmetgokgul/Course-Schedule-Program/assets/153387022/da67080d-7753-46bf-beef-35bbccdabd17)
+![Tablo2](https://github.com/mehmetgokgul/Course-Schedule-Program/assets/153387022/708a3ab1-93b3-4d6d-9ef6-2e58d4753b01)
+
+
 
 
 
