@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-    This project develops a system for creating course schedules within an educational institution. The system automates processes related to scheduling courses, classrooms, service courses, instructors, and the overall course timetable. It takes into account the availability of classrooms and instructors to generate the most suitable course schedule. It's important to note that service courses and occupied times are prioritized and immutable.
+- This project develops a system for creating course schedules within an educational institution. The system automates processes related to scheduling courses, classrooms, service courses, instructors, and the overall course timetable. It takes into account the availability of classrooms and instructors to generate the most suitable course schedule. It's important to note that service courses and occupied times are prioritized and immutable.
 
 ### Classes:
 - **Course**: Represents individual courses within an educational institution. It encapsulates attributes such as course code, name, semester year, credit, type, department, number of students, instructor, and hours preference.
