@@ -54,9 +54,25 @@ FOR EACH course IN courses DO
             UPDATE the instructor's busy times to include this slot
             BREAK  
         ENDIF
+
     END FOR
     IF no suitable slot and classroom were found THEN
         PRINT("No available slot for", course's unique identifier)
     ENDIF
 END FOR
 RETURN the generated schedule
+
+![image](https://github.com/mehmetgokgul/Course-Schedule-Program/assets/153387022/7e914675-6877-4158-bc7d-bf533ac6b570)
+
+![image](https://github.com/mehmetgokgul/Course-Schedule-Program/assets/153387022/22821533-b03e-40af-b035-7afb99097484)
+
+![image](https://github.com/mehmetgokgul/Course-Schedule-Program/assets/153387022/b68b1730-bc89-4546-b981-84252eb85477)
+
+![image](https://github.com/mehmetgokgul/Course-Schedule-Program/assets/153387022/79d49350-d6d4-41dc-8913-9d38d46e88b5)
+
+![image](https://github.com/mehmetgokgul/Course-Schedule-Program/assets/153387022/15c3e090-d779-45b8-bb70-5b76e9fb0e62)
+
+
+
+
+
