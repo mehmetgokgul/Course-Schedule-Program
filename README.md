@@ -1,9 +1,9 @@
-<center>COURSE SCHEDULE PROGRAM</center> 
+# CENG206 PROJECT
 
 ## Project Overview
 
 ### Classes:
-- #**Course**: Represents individual courses within an educational institution. It encapsulates attributes such as course code, name, semester year, credit, type, department, number of students, instructor, and hours preference.
+- **Course**: Represents individual courses within an educational institution. It encapsulates attributes such as course code, name, semester year, credit, type, department, number of students, instructor, and hours preference.
 - **Classroom**: Represents physical spaces within the institution where classes take place. It holds properties like name, capacity (number of students it can accommodate), and a data structure to track occupied time slots.
 - **ServiceCourse**: Class handles special service courses offered by the institution. It includes properties such as course code, day of the week the course is offered, and specific hours during which it takes place.
 - **Busy**: Class denotes an instructor's busy times on specific days. It includes properties like the instructor's name, the day of the week, and an array of time slots indicating when the instructor is occupied.
