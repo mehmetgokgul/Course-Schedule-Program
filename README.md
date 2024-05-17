@@ -1,4 +1,4 @@
-# COURSE SCHEDULE PROGRAM
+<center>COURSE SCHEDULE PROGRAM</center> 
 
 ## Project Overview
 
