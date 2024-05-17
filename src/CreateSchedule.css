@@ -1,0 +1,24 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  table-layout: fixed;
+}
+
+th, td {
+  border: 1px solid #ddd; 
+  padding: 10px; 
+  text-align: center;
+  background-color: #f9f9f9; 
+  vertical-align: middle;
+}
+
+th {
+  background-color: #afacac;
+  font-weight: bold; 
+}
+
+td[rowspan] {
+  background-color: #afacac; 
+  font-weight: bold; 
+}
